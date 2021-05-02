@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextInputLayoutHintText">HintSize</style>
+
+    <style name="TextLabel">HintSize</style>
+
+    <style name="MyTextViewSubtitle">TextViewStyle</style>
+
+
+</resources>

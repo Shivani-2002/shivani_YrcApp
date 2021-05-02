@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YRC</string>
+    <string name="donate_blood">DONATE BLOOD</string>
+    <string name="need_of_blood">NEED OF BLOOD?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="yrc">YRC</string>
+    <string name="name">Name</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="reason_for_blood_request">Reason for blood request</string>
+    <string name="units_of_blood_needed">Units of blood needed</string>
+    <string name="hospital_and_location">Hospital and location</string>
+    <string name="contact_no">Contact No</string>
+
+    <string-array name="BG">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
